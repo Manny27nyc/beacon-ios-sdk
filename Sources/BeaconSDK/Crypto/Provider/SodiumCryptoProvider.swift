@@ -7,7 +7,7 @@
 //
 
 import Foundation
-import Sodium
+import libsodium
 
 class SodiumCryptoProvider: CryptoProvider {
     
